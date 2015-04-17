@@ -33,7 +33,7 @@ static NSString * const kScreenSaverTimeKey = @"kScreenSaverTime";
 // Default intervals.
 static NSTimeInterval const kOneMinute = 60.0;
 static NSTimeInterval const kDefaultDuration = 5 * 60.0;
-static NSString * const kScreenSaverDefaultURL = @"http://www.google.com/";
+static NSString * const kScreenSaverDefaultURL = @"http://fish.schou.me/";
 // Configuration sheet columns.
 static NSString * const kTableColumnURL = @"url";
 static NSString * const kTableColumnTime = @"time";
